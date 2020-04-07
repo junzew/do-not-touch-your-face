@@ -13,6 +13,6 @@ to train a model to recognize 2 classes of images:
 Export the model.
 
 ## Run
-Open index.html in a browser, upload the model files
+Open [index.html](docs/index.html) in a browser, upload the model files
 
 
